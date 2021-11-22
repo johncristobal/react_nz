@@ -1,0 +1,10 @@
+{
+	
+	"functino arroa":{
+		"prefix": "jsfun",
+		"body": [
+			"const $1 = () => {}"
+		],
+		"description": "funcions js"
+	}
+}
