@@ -27,6 +27,16 @@
 			"",
 			"export default ${1:name};"
         ]
+	},
+	"create object react": {
+        "prefix": "component_react",
+        "body": [
+            "const ${1:name} = () => {",
+			"    return(",
+			"    )",
+            "}",
+			""
+        ]
 	}
 }
 ```
